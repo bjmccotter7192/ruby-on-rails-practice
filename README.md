@@ -21,4 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* Debugging Notes
+1. Use ```rails zeitwerk:check --trace``` to help find weird errors sometimes
+
 * ...
